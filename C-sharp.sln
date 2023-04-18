@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cancellation-Token", "Cance
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL", "TPL\TPL.csproj", "{F15FD46E-29D2-42A9-AED2-B0C74E1996E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ", "PLINQ\PLINQ.csproj", "{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{F15FD46E-29D2-42A9-AED2-B0C74E1996E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F15FD46E-29D2-42A9-AED2-B0C74E1996E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F15FD46E-29D2-42A9-AED2-B0C74E1996E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
