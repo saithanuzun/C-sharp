@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL", "TPL\TPL.csproj", "{F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ", "PLINQ\PLINQ.csproj", "{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref-out-in", "ref-out-in\ref-out-in.csproj", "{0576DC87-1F68-4309-B975-2C54909C02C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C6C2F56-F3B4-47BB-A460-F831C94E8F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0576DC87-1F68-4309-B975-2C54909C02C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0576DC87-1F68-4309-B975-2C54909C02C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0576DC87-1F68-4309-B975-2C54909C02C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0576DC87-1F68-4309-B975-2C54909C02C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
