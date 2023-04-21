@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilder", "StringBuil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{42AA5E55-C0D6-4306-85BE-EDCEDF25921B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math", "Math\Math.csproj", "{31D8EC36-E057-4551-ADAF-93C802B39C37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{42AA5E55-C0D6-4306-85BE-EDCEDF25921B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42AA5E55-C0D6-4306-85BE-EDCEDF25921B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42AA5E55-C0D6-4306-85BE-EDCEDF25921B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D8EC36-E057-4551-ADAF-93C802B39C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D8EC36-E057-4551-ADAF-93C802B39C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D8EC36-E057-4551-ADAF-93C802B39C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D8EC36-E057-4551-ADAF-93C802B39C37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
